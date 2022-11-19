@@ -10,7 +10,14 @@ public class GUI {
         JOptionPane.showMessageDialog(null,"you are"+age+"years old");
 
         double pi = Integer.parseInt(JOptionPane.showInputDialog("whats the number of pi i forgor"));
-        JOptionPane.showMessageDialog(null,"thanks man now i know the number of pi its"+pi+"thanks man!");
+        JOptionPane.showMessageDialog(null,"thanks man now i know the number of pi its"+pi+"thanks man!");  
+        
+        
+        int friends = Integer.parseInt(JOptionpane.showinputDialog("How many friends do u have")); 
+        JOptionPane.showMessageDialog(null,"you have "+friends+ "amountoffriends");
+        
+        
+        
 
 
 
